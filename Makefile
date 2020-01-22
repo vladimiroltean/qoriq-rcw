@@ -5,7 +5,7 @@ BOARDS = b4420qds b4860qds \
 	 ls1043aqds ls1043ardb \
 	 ls1046ardb ls1046aqds ls1046afrwy \
 	 ls1088ardb ls1088aqds\
-	 ls1028ardb ls1028aqds\
+	 ls1028ardb ls1028aqds ls1028atsn \
 	 ls2088ardb ls2088ardb_rev1.1 ls2088aqds \
 	 lx2160ardb lx2160aqds lx2160ardb_rev2 lx2160aqds_rev2 lx2162aqds \
 	 p2041rdb p3041ds p4080ds p5020ds p5040ds \
